@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//DjangoBlog/blog_signals.py=utf-8
+encoding//DjangoBlog/elasticsearch_backend.py=utf-8
+encoding//DjangoBlog/feeds.py=utf-8
+encoding//DjangoBlog/tests.py=utf-8
+encoding//accounts/urls.py=utf-8
+encoding//comments/urls.py=utf-8
+encoding//servermanager/Api/blogapi.py=utf-8
+encoding//servermanager/Api/commonapi.py=utf-8
+encoding//servermanager/robot.py=utf-8
+encoding//servermanager/urls.py=utf-8
